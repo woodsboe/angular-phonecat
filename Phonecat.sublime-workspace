@@ -160,6 +160,7 @@
 	},
 	"file_history":
 	[
+		"/D/GitHub/woodsboe/angular-phonecat/app/default.html",
 		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Css/_MediaHelpersPrint.scss",
 		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Css/config.rb",
 		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Css/_reset.scss",
@@ -210,11 +211,6 @@
 			"sheets":
 			[
 			]
-		},
-		{
-			"sheets":
-			[
-			]
 		}
 	],
 	"incremental_find":
@@ -234,18 +230,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -270,11 +259,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
